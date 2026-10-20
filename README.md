@@ -12,5 +12,6 @@
 - +12 шейдеров на любой вкус! как для слабых пк, так для средних или мощных. Среди них: Complementary Reimagined/Unbound, BSL, Bliss, FastPBR, Kappa, Photon, Spooklementary, YoFPS, PotatoShaders.
 
 ## Галерея
-<img width="640" height="360" alt="2026-10-16_07 18 22" src="https://github.com/user-attachments/assets/711cea61-4897-4551-9b7b-d7231d07eb16" />
-<img width="640" height="360" alt="2026-10-16_07 08 38" src="https://github.com/user-attachments/assets/439f4844-fe53-49d9-9fd7-c700360b7076" />
+<img width="640" height="360" alt="{1F5CE8CC-11CE-4100-B328-A215E483EBA5}" src="https://github.com/user-attachments/assets/2ec534a1-f76f-4b10-a93c-b18be292cca1"/>
+<img width="640" height="360" alt="2026-10-20_16 52 14" src="https://github.com/user-attachments/assets/89e10628-aa7f-4b85-81a5-e6b7a98f22dd" />
+
